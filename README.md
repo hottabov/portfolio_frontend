@@ -21,7 +21,7 @@
 - Linux
 
 
-* Контакты: *
+## Контакты:
 
 - Tелеграм: https://t.me/hottabov
 - Эл. почта: hottabov@gmail.com
