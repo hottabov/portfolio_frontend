@@ -12,13 +12,13 @@
 
 Мой стек:
 
-HTML, CSS, SCSS/LESS, Bootstrap 4, Bootstrap-Vue
-Gulp, Webpack
-JavaScript, jQuery, Vue.js, Vuex, Vue CLI
-Django, Wordpress, Vk.api
-Git, Bitbucket, БЭМ
-Photoshop, Avocode, Figma
-Linux
+- HTML, CSS, SCSS/LESS, Bootstrap 4, Bootstrap-Vue
+- Gulp, Webpack
+- JavaScript, jQuery, Vue.js, Vuex, Vue CLI
+- Django, Wordpress, Vk.api
+- Git, Bitbucket, БЭМ
+- Photoshop, Avocode, Figma
+- Linux
 
 
 Контакты:
