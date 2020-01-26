@@ -2,19 +2,20 @@
 
 ## Лендинги
 
-1. https://leonov.pp.ua/landing-prepayway/
-2. https://leonov.pp.ua/landing-delo
-3. https://leonov.pp.ua/landing-layout
+- https://leonov.pp.ua/landing-kma
+- https://leonov.pp.ua/landing-prepayway/
+- https://leonov.pp.ua/landing-delo
+- https://leonov.pp.ua/landing-layout
 
 ## Прелендинги
-1. https://leonov.pp.ua/prelend-casa-mia
+- https://leonov.pp.ua/prelend-casa-mia
 
 ## Quiz, тесты 
-1. https://leonov.pp.ua/quiz-tuso
-2. https://leonov.pp.ua/quiz-internet-sei
+- https://leonov.pp.ua/quiz-tuso
+- https://leonov.pp.ua/quiz-internet-sei
 
 ## Приложения на чистом JavaScript: 
-1. https://magic-ball.pp.ua/ - шар, помогающий принять решение
+- https://magic-ball.pp.ua/ - шар, помогающий принять решение
 
 # Мой стек:
 
