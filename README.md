@@ -6,6 +6,14 @@
 2. ----
 3. ----
 
+## Прелендинги
+1. https://leonov.pp.ua/prelend-casa-mia
+
+## Quiz, тесты 
+1. https://leonov.pp.ua/quiz-tuso
+2. https://leonov.pp.ua/quiz-internet-sei
+
+
 Приложения на чистом JavaScript: 1, 2
 Проекты на jQuery: 1, 2
 Приложения на React: 1, 2
