@@ -3,7 +3,7 @@
 ## Лендинги
 
 1. https://leonov.pp.ua/landing-prepayway/
-2. ----
+2. https://leonov.pp.ua/landing-delo
 3. ----
 
 ## Прелендинги
