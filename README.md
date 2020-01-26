@@ -20,7 +20,7 @@
 # Мой стек:
 
 - HTML, CSS, SCSS/LESS, Bootstrap 4
-- Gulp, Webpack
+- Gulp, Prepros
 - JavaScript, jQuery
 - Django, Wordpress, Joomla, Vk.api
 - Git, Bitbucket, БЭМ
