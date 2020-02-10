@@ -22,7 +22,7 @@
 - HTML, CSS, SCSS/LESS, Bootstrap 4
 - Gulp, Prepros
 - JavaScript, jQuery
-- Django, Wordpress, Joomla, Vk.api
+- Django, Wordpress, Joomla, DLE
 - Git, Bitbucket, БЭМ
 - Photoshop, Avocode, Figma
 - Linux
