@@ -9,6 +9,7 @@
 
 ## Прелендинги
 - https://leonov.pp.ua/prelend-casa-mia
+- https://leonov.pp.ua/prelend-black-decker/
 
 ## Quiz, тесты 
 - https://leonov.pp.ua/quiz-tuso
