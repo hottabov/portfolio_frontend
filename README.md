@@ -18,6 +18,9 @@
 ## Приложения на чистом JavaScript: 
 - https://magic-ball.pp.ua/ - шар, помогающий принять решение
 
+## Шутки: 
+- https://covid.pp.ua/ - Экспресс-тест на коронавирус онлайн
+
 # Мой стек:
 
 - HTML, CSS, SCSS/LESS, Bootstrap 4
