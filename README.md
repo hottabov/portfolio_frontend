@@ -11,6 +11,7 @@
 - https://leonov.pp.ua/prelend-casa-mia
 - https://leonov.pp.ua/prelend-black-decker/
 - https://leonov.pp.ua/prelend-abr/
+- https://leonov.pp.ua/prelend-foamatic/
 
 ## Quiz, тесты 
 - https://leonov.pp.ua/quiz-tuso
